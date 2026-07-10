@@ -4,6 +4,8 @@ A real-time computer vision application that allows users to control Spotify med
 
 The project uses **OpenCV** for image processing, **Histogram of Oriented Gradients (HOG)** for feature extraction, and a **Support Vector Machine (SVM)** classifier for gesture recognition.
 
+❌ not using **MediaPipe**
+
 ---
 
 ## 📌 Features
